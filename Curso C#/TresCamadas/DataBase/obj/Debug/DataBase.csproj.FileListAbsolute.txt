@@ -1,0 +1,13 @@
+D:\DaniloAparecido\TresCamadas\DataBase\bin\Debug\DataBase.dll
+D:\DaniloAparecido\TresCamadas\DataBase\bin\Debug\DataBase.pdb
+D:\DaniloAparecido\TresCamadas\DataBase\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\DaniloAparecido\TresCamadas\DataBase\bin\Debug\System.Security.AccessControl.dll
+D:\DaniloAparecido\TresCamadas\DataBase\bin\Debug\System.Security.Permissions.dll
+D:\DaniloAparecido\TresCamadas\DataBase\bin\Debug\System.Security.Principal.Windows.dll
+D:\DaniloAparecido\TresCamadas\DataBase\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\DaniloAparecido\TresCamadas\DataBase\bin\Debug\System.Security.AccessControl.xml
+D:\DaniloAparecido\TresCamadas\DataBase\bin\Debug\System.Security.Permissions.xml
+D:\DaniloAparecido\TresCamadas\DataBase\bin\Debug\System.Security.Principal.Windows.xml
+D:\DaniloAparecido\TresCamadas\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+D:\DaniloAparecido\TresCamadas\DataBase\obj\Debug\DataBase.dll
+D:\DaniloAparecido\TresCamadas\DataBase\obj\Debug\DataBase.pdb

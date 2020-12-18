@@ -1,0 +1,8 @@
+D:\DaniloAparecido\TresCamadas\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\DaniloAparecido\TresCamadas\Business\bin\Debug\Business.dll
+D:\DaniloAparecido\TresCamadas\Business\bin\Debug\Business.pdb
+D:\DaniloAparecido\TresCamadas\Business\obj\Debug\Business.dll
+D:\DaniloAparecido\TresCamadas\Business\obj\Debug\Business.pdb
+D:\DaniloAparecido\TresCamadas\Business\bin\Debug\DatabaseSQL.dll
+D:\DaniloAparecido\TresCamadas\Business\bin\Debug\DatabaseSQL.pdb
+D:\DaniloAparecido\TresCamadas\Business\obj\Debug\Business.csproj.CopyComplete

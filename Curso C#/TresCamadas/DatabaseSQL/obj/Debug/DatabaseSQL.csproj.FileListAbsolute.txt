@@ -1,0 +1,4 @@
+D:\DaniloAparecido\TresCamadas\DatabaseSQL\bin\Debug\DatabaseSQL.dll
+D:\DaniloAparecido\TresCamadas\DatabaseSQL\bin\Debug\DatabaseSQL.pdb
+D:\DaniloAparecido\TresCamadas\DatabaseSQL\obj\Debug\DatabaseSQL.dll
+D:\DaniloAparecido\TresCamadas\DatabaseSQL\obj\Debug\DatabaseSQL.pdb

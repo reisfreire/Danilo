@@ -1,0 +1,12 @@
+D:\DaniloAparecido\TresCamadas\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\DaniloAparecido\TresCamadas\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\DaniloAparecido\TresCamadas\UI\bin\Debug\Business.dll
+D:\DaniloAparecido\TresCamadas\UI\bin\Debug\Business.pdb
+D:\DaniloAparecido\TresCamadas\UI\obj\Debug\UI.csproj.CopyComplete
+D:\DaniloAparecido\TresCamadas\UI\obj\Debug\UI.Form1.resources
+D:\DaniloAparecido\TresCamadas\UI\obj\Debug\UI.Properties.Resources.resources
+D:\DaniloAparecido\TresCamadas\UI\bin\Debug\UI.exe.config
+D:\DaniloAparecido\TresCamadas\UI\bin\Debug\UI.exe
+D:\DaniloAparecido\TresCamadas\UI\bin\Debug\UI.pdb
+D:\DaniloAparecido\TresCamadas\UI\obj\Debug\UI.exe
+D:\DaniloAparecido\TresCamadas\UI\obj\Debug\UI.pdb
