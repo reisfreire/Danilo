@@ -1,0 +1,8 @@
+D:\DaniloAparecido\Tres_Camadas\Database\bin\Debug\Database.pdb
+D:\DaniloAparecido\Tres_Camadas\Database\obj\Debug\Database.dll
+D:\DaniloAparecido\Tres_Camadas\Database\obj\Debug\Database.pdb
+D:\DaniloAparecido\Tres_Camadas\Database\obj\Debug\Database.csprojAssemblyReference.cache
+D:\DaniloAparecido\Tres_Camadas\Database\bin\Debug\Database.dll
+D:\DaniloAparecido\Tres_Camadas\Database\obj\Debug\Database.csproj.CopyComplete
+D:\DaniloAparecido\Tres_Camadas\Database\bin\Debug\Interfaces.dll
+D:\DaniloAparecido\Tres_Camadas\Database\bin\Debug\Interfaces.pdb

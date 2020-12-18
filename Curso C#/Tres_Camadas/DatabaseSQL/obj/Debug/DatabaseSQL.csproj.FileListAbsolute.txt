@@ -1,0 +1,8 @@
+D:\DaniloAparecido\Tres_Camadas\DatabaseSQL\obj\Debug\DatabaseSQL.csprojAssemblyReference.cache
+D:\DaniloAparecido\Tres_Camadas\DatabaseSQL\bin\Debug\DatabaseSQL.dll
+D:\DaniloAparecido\Tres_Camadas\DatabaseSQL\bin\Debug\DatabaseSQL.pdb
+D:\DaniloAparecido\Tres_Camadas\DatabaseSQL\obj\Debug\DatabaseSQL.dll
+D:\DaniloAparecido\Tres_Camadas\DatabaseSQL\obj\Debug\DatabaseSQL.pdb
+D:\DaniloAparecido\Tres_Camadas\DatabaseSQL\obj\Debug\DatabaseSQL.csproj.CopyComplete
+D:\DaniloAparecido\Tres_Camadas\DatabaseSQL\bin\Debug\Interfaces.dll
+D:\DaniloAparecido\Tres_Camadas\DatabaseSQL\bin\Debug\Interfaces.pdb

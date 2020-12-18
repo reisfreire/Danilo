@@ -1,0 +1,10 @@
+D:\DaniloAparecido\Tres_Camadas\Tres_Camadas\bin\Debug\Tres_Camadas.vsix
+D:\DaniloAparecido\Tres_Camadas\Tres_Camadas\bin\Debug\extension.vsixmanifest
+D:\DaniloAparecido\Tres_Camadas\Tres_Camadas\obj\Debug\Tres_Camadas.csprojAssemblyReference.cache
+D:\DaniloAparecido\Tres_Camadas\Tres_Camadas\obj\Debug\_EmptyResource.resources
+D:\DaniloAparecido\Tres_Camadas\Tres_Camadas\obj\Debug\Tres_Camadas.csproj.GenerateResource.cache
+D:\DaniloAparecido\Tres_Camadas\Tres_Camadas\obj\Debug\Tres_Camadas.dll
+D:\DaniloAparecido\Tres_Camadas\Tres_Camadas\obj\Debug\Tres_Camadas.pdb
+D:\DaniloAparecido\Tres_Camadas\Tres_Camadas\obj\Debug\extension.vsixmanifest
+D:\DaniloAparecido\Tres_Camadas\Tres_Camadas\obj\Debug\files.json
+D:\DaniloAparecido\Tres_Camadas\Tres_Camadas\obj\Debug\createTemplateManifests.cache

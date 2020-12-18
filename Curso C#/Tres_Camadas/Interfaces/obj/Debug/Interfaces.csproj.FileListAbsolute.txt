@@ -1,0 +1,5 @@
+D:\DaniloAparecido\Tres_Camadas\Interfaces\bin\Debug\Interfaces.dll
+D:\DaniloAparecido\Tres_Camadas\Interfaces\bin\Debug\Interfaces.pdb
+D:\DaniloAparecido\Tres_Camadas\Interfaces\obj\Debug\Interfaces.dll
+D:\DaniloAparecido\Tres_Camadas\Interfaces\obj\Debug\Interfaces.pdb
+D:\DaniloAparecido\Tres_Camadas\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
